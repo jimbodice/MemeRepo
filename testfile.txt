@@ -1,1 +1,2 @@
 "HelloFromCommand" 
+"this is new text" 
