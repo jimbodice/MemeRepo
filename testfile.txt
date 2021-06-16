@@ -1,2 +1,3 @@
 "HelloFromCommand" 
 "this is new text" 
+Jimmy is cool 
